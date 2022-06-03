@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0 50px;
+    padding: 40px 0;
+    color:#fff;
+}
+
+footer {
+    color: blanchedalmond;
+    background-color: blueviolet;
+    text-align: center;
+    margin: 40px 0 0;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px;
+}
+
+button {
+    
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 10px;
+    position: relative;
+    left: 60px;
+    margin: 4px 580px 20px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+
+/* about me page */
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    line-height: 2;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head {
+    background-color: blueviolet;
+}
+
+.about2 {
+    padding: 5% 15% 5%;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.about, .about3 {
+    padding: 5% 15% 5%;
+}
+
+.row {
+    text-align: center;
+    padding: 5% 0;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+    color: #fff;
+}
+
+/* login page */
+
+.head {
+    background-color: blueviolet;
+}
+
+.login {
+    margin: 200px 550px 10px;
+    font-size: 200%;
+    border: 5px solid blueviolet;
+    border-radius: 5px;
+    padding: 30px;
+
+}
+
+input {
+    width: 100px;
+    height: 20px;
+    margin: 5px 0 5px;
+}
+
+/* registration page */
+
+.tab {
+    margin: 50px;
+}
+
+label {
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.reg {
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 10px;
+    position: relative;
+    left: 60px;
+    margin: 4px 30px 20px;
+}
+
+/* contact page */
+
+.contact {
+    margin: 100px 0;
+}
+
+textarea {
+    position: relative;
+    left: 180px;
+    bottom: 20px;
+}
+
